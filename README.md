@@ -1,1 +1,1 @@
-# ToolsStr
+print("salam")
